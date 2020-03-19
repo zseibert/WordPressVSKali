@@ -13,6 +13,8 @@
       ```
 
   - Walkthrough:
+  <img src="XSS 1.gif" width="800">
+  
   - Tested in version: 4.2
   - Fixed in version: 4.2.1
   
@@ -28,6 +30,8 @@
       ```
       
   - Walkthrough:
+  <img src="XSS 2.gif" width="800">  
+  
   - Tested in version: 4.2
   - Fixed in version: 4.7.1
   
@@ -44,6 +48,8 @@
       5. Reload the main page
       
   - Walkthrough:
+  <img src="XSS 3.gif" width="800">  
+  
   - Tested in version: 4.2
   - Fixed in version: 4.2.5
   
@@ -59,6 +65,8 @@
       ```
       5. Navigate to Updates in the Dashboard
 
-  - Walkthrough: 
+  - Walkthrough:
+  <img src="XSS 4.gif" width="800">  
+  
   - Tested in version: 4.2
   - Fixed in version: 4.7.1
