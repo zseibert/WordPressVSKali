@@ -7,9 +7,10 @@
   - Steps to recreate:
       1. Login as Admin
       2. Navigate to comments
-      3. Post comment with the following payload:
-      
-<a href='/wp-admin/' title="XSS" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;" onmouseover=alert(1)//‘ rel="nofollow">Hello World</a>
+      3. Post comment with the following payload: 
+      ```
+      /* <a href='/wp-admin/' title="XSS" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;" onmouseover=alert(1)//‘ rel="nofollow">Hello World</a> */
+      ```
 
   - Walkthrough:
   - Tested in version: 4.2
