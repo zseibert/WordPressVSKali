@@ -22,8 +22,11 @@
       1. Login as Admin
       2. Navigate to All Pages
       3. Select a page to edit
-      4. Add the following script to the page title and update: <script>alert(1)</script>
-
+      4. Add the following script to the page title and update:
+      ```
+       <script>alert(1)</script>
+      ```
+      
   - Walkthrough:
   - Tested in version: 4.2
   - Fixed in version: 4.7.1
@@ -34,7 +37,10 @@
       1. Login as Admin
       2. Navigate to the Posts
       3. Select a post to edit
-      4. Add the following script to the post title and update: <script>alert(1)</script>  
+      4. Add the following script to the post title and update:
+      ```
+       <script>alert(1)</script>
+      ```
       5. Reload the main page
       
   - Walkthrough:
@@ -47,7 +53,10 @@
       1. Login as Admin
       2. Navigate to Plugins
       3. Select a plugin to edit
-      4. Add the following script script to the php and update: <script>alert(1)</script>  
+      4. Add the following script script to the php and update:
+      ```
+       <script>alert(1)</script>
+      ```
       5. Navigate to Updates in the Dashboard
 
   - Walkthrough: 
